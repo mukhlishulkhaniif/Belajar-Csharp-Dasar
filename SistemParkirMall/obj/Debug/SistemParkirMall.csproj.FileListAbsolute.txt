@@ -1,0 +1,8 @@
+D:\BELAJAR - CODING\C#\SistemParkirMall\bin\Debug\SistemParkirMall.exe.config
+D:\BELAJAR - CODING\C#\SistemParkirMall\bin\Debug\SistemParkirMall.exe
+D:\BELAJAR - CODING\C#\SistemParkirMall\bin\Debug\SistemParkirMall.pdb
+D:\BELAJAR - CODING\C#\SistemParkirMall\obj\Debug\SistemParkirMall.csproj.AssemblyReference.cache
+D:\BELAJAR - CODING\C#\SistemParkirMall\obj\Debug\SistemParkirMall.csproj.CoreCompileInputs.cache
+D:\BELAJAR - CODING\C#\SistemParkirMall\obj\Debug\SistemParkirMall.exe
+D:\BELAJAR - CODING\C#\SistemParkirMall\obj\Debug\SistemParkirMall.pdb
+D:\BELAJAR - CODING\C#\SistemParkirMall\obj\Debug\SistemParkirMall.exe.config
