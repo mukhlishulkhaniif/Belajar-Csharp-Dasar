@@ -1,0 +1,8 @@
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\bin\Debug\KalkulatorScoreGame.exe.config
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\bin\Debug\KalkulatorScoreGame.exe
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\bin\Debug\KalkulatorScoreGame.pdb
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\obj\Debug\KalkulatorScoreGame.csproj.AssemblyReference.cache
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\obj\Debug\KalkulatorScoreGame.csproj.CoreCompileInputs.cache
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\obj\Debug\KalkulatorScoreGame.exe
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\obj\Debug\KalkulatorScoreGame.pdb
+D:\BELAJAR - CODING\C#\KalkulatorScoreGame\obj\Debug\KalkulatorScoreGame.exe.config
