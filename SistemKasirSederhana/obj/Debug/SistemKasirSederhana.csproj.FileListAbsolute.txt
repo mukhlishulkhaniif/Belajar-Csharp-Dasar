@@ -1,0 +1,8 @@
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\bin\Debug\SistemKasirSederhana.exe.config
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\bin\Debug\SistemKasirSederhana.exe
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\bin\Debug\SistemKasirSederhana.pdb
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\obj\Debug\SistemKasirSederhana.csproj.AssemblyReference.cache
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\obj\Debug\SistemKasirSederhana.csproj.CoreCompileInputs.cache
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\obj\Debug\SistemKasirSederhana.exe
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\obj\Debug\SistemKasirSederhana.pdb
+D:\BELAJAR - CODING\C#\SistemKasirSederhana\obj\Debug\SistemKasirSederhana.exe.config
