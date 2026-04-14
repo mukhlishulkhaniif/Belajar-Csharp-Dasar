@@ -17,7 +17,13 @@ Tujuan dari repo ini adalah untuk mendokumentasikan pemahaman saya mengenai kons
    * Menghitung tarif berdasarkan jenis kendaraan: **Mobil** (Rp5.000/jam) dan **Motor** (Rp2.000/jam).
    * Fitur kalkulasi otomatis: `Tarif x Durasi Jam`.
    * Implementasi `while loop` agar user bisa menghitung biaya berulang kali tanpa merestart program.
-
+  
+3. **Sistem Kasir Sederhana**
+   * Menghitung total belanja untuk item Buku, Pensil, dan Pulpen.
+   * Fitur Diskon Otomatis: Potongan 10% jika total belanja di atas Rp50.000 menggunakan logical operator.
+   * Teknik Modular: Menggunakan methods dengan arguments untuk memisahkan logika perhitungan matematika.
+   * Validasi Input: Memastikan transaksi hanya tercatat jika pilihan barang valid (harga > 0).
+     
 ---
 
 ### 🛠️ Materi yang Sudah Dipelajari
